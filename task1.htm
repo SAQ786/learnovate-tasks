@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<title>Task1</title>
+		<style>
+		body{
+			background-color:#979A9A ;
+			color: white !important;
+			text-align: center;
+		}
+		.box{
+		  box-sizing: border-box;
+		  margin:0 auto; 
+		  width:600px;
+		  padding:20px;
+		  background :#BDC3C7;
+		  border:2px solid #D35400 ;
+	    }
+		.container {
+		  padding: 16px;
+		}
+		h1{
+		font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-weight: 550;
+		text-color=#34495E ;
+}
+		
+		.button:hover{
+			background-color:#43053C;
+			color: #fff;
+			}
+		</style>
+	</head>
+	<body>
+	
+	<h1>User Details</h1>
+	<hr>
+	<div class="box">
+		<form >
+			First Name:<input type="text" name="firstname"/><br><br>
+			Last Name: <input type="text" name="lastname"/><br><br>
+			Email:     <input type="email" id="email" name="email"/><br><br>
+			Password: <input type="Password" id="pass" name="pass"> <br><br>  
+     		<label> Skills : </label> 
+				<input type="checkbox" id="skills1"  value="html" name="skills1"  > Html   
+				<input type="checkbox" id="skills2"value="css" name="skills2"> css  
+				<input type="checkbox" id="skills3"value="php" name="skills3"> php  <br><br>
+			
+			<label> Gender : </label> 
+				<input type="radio" id="gender" value="Male" name="gender"  > Male   
+				<input type="radio" id="gender" value="Female" name="gender"> Female   
+				<input type="radio" id="gender" value="Other" name="gender"> Other  <br><br>
+		    <label> Phone : </label>  
+				<input type="text" name="country code" placeholder="Country Code"  value="+91" size="2"/>   
+				<input type="text" name="phone" placeholder="phone no." size="10"/ required>   <br><br>
+			<label> Upload your resume : </label>  	
+				<input type="file" id="myfile" name="file"  > <br><br>
+			<input class="button" type="button" value="Submit"/>  
+			<input class="button" type="button" value="Reset"/> 
+		</form>
+		</div>
+	</body>
+</html>
