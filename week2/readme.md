@@ -25,3 +25,27 @@ You have to create a website for displaying 6-9 products which will be having 3 
 ![image](https://user-images.githubusercontent.com/55503264/129560307-72b9b261-0074-4c0b-bf1d-1cfdd2f15685.png)
 
 
+<----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+#task2
+2. Classmates Information :
+In this task you have create a table which has list of min 10 classmates and one view details button.On clicking View details  individual classmate detail like marks should be available.
+
+-->Classmets Information
+![image](https://user-images.githubusercontent.com/55503264/129571710-61797771-cbff-45dc-8369-61e3c13ebad8.png)
+
+#person1 info after cleking view details
+
+![image](https://user-images.githubusercontent.com/55503264/129571904-44b945e6-6c96-45f0-96fa-8ddb581d6b32.png)
+
+#person2 info after cleking view details
+
+![image](https://user-images.githubusercontent.com/55503264/129572058-05f71909-b88d-4860-af4e-949cd9dbcb10.png)
+
+#person3 info after cleking view details
+
+![image](https://user-images.githubusercontent.com/55503264/129572228-d99565f5-ee0c-4682-b4b0-f8a6e14e230b.png)
+
+#person4 info after cleking view details
+
+![image](https://user-images.githubusercontent.com/55503264/129572354-1e85d620-a96b-4f29-b490-83eb36f0c8a1.png)
