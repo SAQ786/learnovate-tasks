@@ -4,7 +4,8 @@ You have to create a website for displaying 6-9 products which will be having 3 
 
 --> Products
 
-![image](https://user-images.githubusercontent.com/55503264/129559875-e877323f-8da0-4a0f-8788-81a3a5858e7d.png)
+![image](https://user-images.githubusercontent.com/55503264/129561570-6be7bca9-0ca9-491b-a6eb-0fce86893789.png)
+![image](https://user-images.githubusercontent.com/55503264/129562080-0ca735e6-72f0-4bd1-bb1c-e1f9d9d6635d.png)
 
 -->On Clicking Event Modal
 #product1 info after cliking
