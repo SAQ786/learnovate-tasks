@@ -1,6 +1,6 @@
 "Task details"
-1.For Product display:
-You have to create a website for displaying 6-9 products which will be having 3 products in each row.Each product div should have image,its name. On clicking any one 2-3 lines para should appear giving details of the product.
+
+1.For Product display:You have to create a website for displaying 6-9 products which will be having 3 products in each row.Each product div should have image,its name. On clicking any one 2-3 lines para should appear giving details of the product.
 
 --> Products
 
