@@ -18,6 +18,3 @@ Each gif when clicked should take you to another webpage which would contain a l
 ![image](https://user-images.githubusercontent.com/55503264/130513968-0b35df60-7311-4809-926a-505cbd1ba0d1.png)
 ![image](https://user-images.githubusercontent.com/55503264/130513727-1898ee88-bb4a-4448-a318-bef94ae6ceb9.png)
 
-1,4,7 gif should have unordered lists in their webpage:
-
-![image](https://user-images.githubusercontent.com/55503264/130514278-7ad1da37-f896-4135-ac1f-ba280f5190b6.png) ![image](https://user-images.githubusercontent.com/55503264/130514525-87d0388e-588f-4477-a496-21888778187b.png) 
