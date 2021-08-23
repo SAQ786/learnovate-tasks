@@ -1,14 +1,16 @@
+
 Task 1:
-Create a webpage with 6 iframes in it
-That is a website that displays 6 YouTube videos. Each of them should have thumbnails
-The first row will have 1 iframe
-2nd row will have 2 iframes and 3rd row will have 3 iframes
-So it should be in the form of a triangle
+
+Create a webpage with 6 iframes in it, That is a website that displays 6 YouTube videos. Each of them should have thumbnails.
+The first row will have 1 iframe 2nd row will have 2 iframes and 3rd row will have 3 iframesSo it should be in the form of a triangle
+
 output:
+
 ![image](https://user-images.githubusercontent.com/55503264/130512741-16f9740b-0e8d-4e93-9e16-697ea593e1b9.png)
 ================================================================================================================================================
 
 Task 2:
+
 Create a webpage containing 9 GIFs
 3 in each row
 Each gif when clicked should take you to another webpage which would contain a list about something related to the gif
